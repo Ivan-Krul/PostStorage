@@ -5,8 +5,8 @@ T=>Happy Bday to me<=T
     " In this day, I wasn't doomed by calls, maybe because I'm in another country "
     " So, I drew this and embeded in the picture a music, what I can associate myself "
     ilcr- OCPool/Jania/Bday 18th.png -ilcr
-    " Here's video btw "
-    <video src="./resource/My 18th Bday vid.mp4"* controls></video>
+    /* " Here's video btw "
+    <video src="./resource/My 18th Bday vid.mp4"* controls></video> */
     |" 
         Here's playlist:
         <ul>
