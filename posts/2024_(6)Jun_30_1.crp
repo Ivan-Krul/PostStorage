@@ -1,7 +1,8 @@
 #->en#
 T=>Boredom<=T
 " Hai! "
-" So, the holidays are here, "{bold_yapi} yappii!!!<" "
+" So, the holidays are here, "{bold_yapi} yappii!!! "
+ "
 |$ document.getElementById("bold_yapi").style.fontWeight = *"bold"*; document.getElementById("bold_yapi").style.fontSize = *"3ch"*; document.getElementById("bold_yapi").style.color = *"purple"*; $|
 " Also yeah, you can see, also output system is different for the post, because it has embeded js for local stuff "
 " I have no idea what to do... "
