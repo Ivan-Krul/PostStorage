@@ -1,0 +1,15 @@
+T=>Usage of PostParser instead of MarkDown<=T
+" Hai! As you might know, I use PostParser to make and store posts. You can reveal your confuse, why am I keep making posts in that bozo thing, if MarkDown exists? "
+"->Markdown is simple enough to write something for real quick and to put no thought on what have you written. Project documentation or help forum would be at the best level. But what about posts?<-"
+"->Forum or post platforms like Reddit or Twitter (X if you still prefer) usually targeted for accesible: simple layout, style easy to read and browse anything. BORING!!<-"
+"->The same thing would come if I used MarkDown instead of it. PostParser isn't just language for posts, it's just parser, that converts to HTML. The main thing is the input: it parses the main keywords and sorts input by language and crops it, THAT'S IT! All you can type in HTML is possible to achieve with PostParser! You can type tags as usual HTML file there and they would work as actual tags! Here's the \<span\>BLAH\<span\> <span>BLAH</span><-"
+"{bob} As you can see, I applied the style for that text to prove (:p)<-"
+>q> 
+here's how :p 
+|$[space]document.getElementById("bob").style.backgroundColor =*"#513253";document.getElementById("bob").style.textAlign =*"center";[space]$|
+ >q>
+
+|$ document.getElementById("bob").style.backgroundColor =*"#513253";document.getElementById("bob").style.textAlign =*"center"; $|
+
+" Ye, for beginners that would be complicated, but it's simple enough, so still valid for them to try it. "
+" That's pretty much it, byee! "
