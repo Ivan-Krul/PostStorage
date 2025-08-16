@@ -31,7 +31,6 @@
 2024_(5)Mai_19_1.crp
 2024_(5)Mai_21_1.crp
 2024_(5)Mai_22_1.crp
-2024_(5)May_26_1.crp
 2024_(5)Mai_31_1.crp
 2024_(5)Mai_31_2.crp
 2024_(6)Jun_01_1.crp
@@ -41,7 +40,6 @@
 2024_(6)Jun_26_1.crp
 2024_(6)Jun_30_1.crp
 2024_(7)Jul_26_1.crp
-2024_(8)Aug_02_1.crp
 2024_(9)Sep_14_1.crp
 2024_(9)Sep_20_1.crp
 2024_(9)Sep_26_1.crp
@@ -71,3 +69,4 @@
 2025_(5)May_03_1.crp	#17 Week: having relaxation before the storm
 2025_(5)May_18_1.crp	#18 - #20 Weeks: getting distracted and inspired
 2025_(6)Jun_04_1.crp	#21 - #22 Weeks: summer and inspiration
+2025_(8)Aug_16_1.crp	Whataheel?
